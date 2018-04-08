@@ -1,6 +1,0 @@
-c:\users\dimav\onedrive\документы\visual studio 2017\Projects\ConsoleArchiver\ConsoleArchiver\bin\Debug\ConsoleArchiver.exe.config
-c:\users\dimav\onedrive\документы\visual studio 2017\Projects\ConsoleArchiver\ConsoleArchiver\bin\Debug\ConsoleArchiver.exe
-c:\users\dimav\onedrive\документы\visual studio 2017\Projects\ConsoleArchiver\ConsoleArchiver\bin\Debug\ConsoleArchiver.pdb
-c:\users\dimav\onedrive\документы\visual studio 2017\Projects\ConsoleArchiver\ConsoleArchiver\obj\Debug\ConsoleArchiver.csprojResolveAssemblyReference.cache
-c:\users\dimav\onedrive\документы\visual studio 2017\Projects\ConsoleArchiver\ConsoleArchiver\obj\Debug\ConsoleArchiver.exe
-c:\users\dimav\onedrive\документы\visual studio 2017\Projects\ConsoleArchiver\ConsoleArchiver\obj\Debug\ConsoleArchiver.pdb
