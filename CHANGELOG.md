@@ -1,0 +1,12 @@
+1.0.1 / Current
+---------------
+
+* Threads in the threadpool are canceled then deleted
+* read_raw_data function read mem_size bytes
+* Add the 'test' option to check the archive integrity
+* Add a compatibility with osx
+
+1.0.0 / 07-04-2018
+------------------
+
+* Initial release
